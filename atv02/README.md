@@ -77,3 +77,9 @@ A aplicação apresenta um dashboard com informações sobre algumas tecnologias
 ### Print adicional
 
 ![Aplicação funcionando](prints/Captura%20de%20tela%202026-09-24%20192131.png)
+
+## 👨‍💻 Autor
+
+**Vinícius Côrte**
+
+Projeto desenvolvido para a disciplina de **Frameworks Front-end**.
