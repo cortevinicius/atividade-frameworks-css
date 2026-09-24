@@ -67,7 +67,8 @@ A aplicação apresenta um dashboard com informações sobre algumas tecnologias
 
 ### Aplicação funcionando
 
-![Aplicação funcionando](prints/Captura%20de%20tela%202026-09-24%20192131.png)
+![Print adicional](prints/Captura%20de%20tela%202026-09-24%20192235.png)
+
 
 ### Print adicional
 
@@ -75,4 +76,4 @@ A aplicação apresenta um dashboard com informações sobre algumas tecnologias
 
 ### Print adicional
 
-![Print adicional](prints/Captura%20de%20tela%202026-09-24%20192235.png)
+![Aplicação funcionando](prints/Captura%20de%20tela%202026-09-24%20192131.png)
